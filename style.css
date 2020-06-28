@@ -239,7 +239,7 @@ a img.aligncenter {
 
 
 .gallery-single{
-	margin: 30px 15px;;
+	margin-top: 25px;
 }
 
 .gallery-single {
@@ -253,7 +253,8 @@ a img.aligncenter {
 
 .gallery-single img{
 	width:100%; 
-	height:100%; 
+	height:100%;
+	padding:10px;
 	object-fit:contain; 
 }
 
@@ -283,6 +284,11 @@ a img.aligncenter {
 .gallery-list .gallery-single:hover .img-overlay .hoverbutton{
 	opacity: 1;
 	top: 50%;
+}
+
+.img-overlay h6{
+	text-align:center;
+	color:#cccccc;
 }
 
 .contact_form {
