@@ -481,10 +481,10 @@ figcaption {
 }
 
 .message-box h4 {
-  text-indent: 2%;
+  margin-left:2%;
 }
 .message-box h6 {
-  text-indent: 4%;
+  margin-left:4%;
 }
 .message-box p {
   margin-left:6%;
